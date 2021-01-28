@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+#logo{
+    width: 15%;
+}
+
+.nav-bar-text{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
